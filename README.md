@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1> Olá, me chamo Lucca ! Bem vindo ao meu perfil GitHub 👋</h1>
 
-<!--
-**pochita12/pochita12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mim</h2>
+- 🔭 Atualmente estou trabalhando na minha evolução como dev
+- 🌱 Atualmente estou aprendendo Javascript
+- 👯 Estou procurando colaborar em qualquer projeto que me deixe aprender 
+- 💬 Pergunte-me sobre qualquer coisa, eu amo conversar sobre coisas aleatorias
+- 📫 Como entrar em contato comigo: luccaandradecantao@gmail.com
 
-Here are some ideas to get you started:
+<h2>Ferramentas e Tecnologias</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+
+
+
+
