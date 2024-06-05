@@ -6,6 +6,9 @@
 - 👯 Estou procurando colaborar em qualquer projeto que me deixe aprender <br>
 - 💬 Pergunte-me sobre qualquer coisa, eu amo conversar sobre coisas aleatorias <br>
 - 📫 Como entrar em contato comigo: luccaandradecantao@gmail.com <br>
+-Visite o meu portfolio, eu estou constantemente atualizando ele >:)
+
+<h2>https://lucca-andrade-cantao.vercel.app/index.html</h2>
 
 <h2>Ferramentas e Tecnologias</h2>
 
