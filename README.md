@@ -2,10 +2,10 @@
 
 <h2>Sobre mim</h2>
 - 🔭 Atualmente estou trabalhando na minha evolução como dev <br>
-- 🌱 Atualmente estou aprendendo Javascript <br>
+- 🌱 Atualmente estou estou estudando sobre o  consumo de apis <br>
 - 👯 Estou procurando colaborar em qualquer projeto que me deixe aprender <br>
 - 💬 Pergunte-me sobre qualquer coisa, eu amo conversar sobre coisas aleatorias <br>
-- 📫 Como entrar em contato comigo: luccaandradecantao@gmail.com <br>
+- 📫 Como entrar em contato comigo: lihitcontato@gmail.com<br>
 -Visite o meu portfolio, eu estou constantemente atualizando ele >:)
 
 <h2>https://lucca-andrade-cantao.vercel.app/index.html</h2>
